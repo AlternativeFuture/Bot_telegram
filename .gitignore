@@ -18,3 +18,4 @@ bot_database
 .idea/vcs.xml
 /.idea/
 
+/__pycache__/
